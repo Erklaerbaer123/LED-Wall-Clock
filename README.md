@@ -1,1 +1,3 @@
-#LED-Wall-Clocl
+#LED-Wall-Clock
+
+A small home Project.
